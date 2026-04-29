@@ -13,7 +13,7 @@
   "license": "GPL-2.0-or-later",
   "require": {
     "php": ">=7.4.0 <8.5",
-    "typo3/cms-core": ">=10.4.0,<13.5",
+    "typo3/cms-core": ">=10.4.0,<14.3",
     "ext-json": "*",
     "ext-openssl": "*"
   },
